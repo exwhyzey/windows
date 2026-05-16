@@ -1,11 +1,11 @@
 Windows tricks
-
+```
 add vertical pane: alt + shift + + (plus)
 add horizontal pane: alt + shift + - (minus)
 Close current pane: Ctrl + Shift + W
 broadcast inputs to all panes: ctrl + shift + p then search for broadcase (toggle broadcast)
 to navigate between panes: alt + arrows
-
+```
 
 Bypass windows 10/11 microsoft account creation during OS installation
 On the “Oops, you’ve lost internet connection” or “Let’s connect you to a network” page, use the “Shift + F10” keyboard shortcut.
